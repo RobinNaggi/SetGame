@@ -37,11 +37,16 @@ All have different colors; all have different symbols; all have different number
 All have different colors; all have different symbols; all have different numbers of symbols, and all have different shadings.
 
 The following are not 'Sets': 
+
 ![](https://puzzles.setgame.com/images/setcards/small/16.gif)
 ![](https://puzzles.setgame.com/images/setcards/small/67.gif)
 ![](https://puzzles.setgame.com/images/setcards/small/64.gif)
 
 All have different colors; all are diamonds; all have one symbol; however, two are open and one is not. 
+
+![](https://puzzles.setgame.com/images/setcards/small/02.gif)
+![](https://puzzles.setgame.com/images/setcards/small/29.gif)
+![](https://puzzles.setgame.com/images/setcards/small/62.gif)
 
 All are squiggles; all have different shadings; all have two symbols; however, two are red and one is not.
 ## Demo
