@@ -1,4 +1,5 @@
 # SetGame
 
 ## Demo
-![](https://giphy.com/gifs/9VkmcH8Lj4297mChAw/html5)
+![](https://media.giphy.com/media/EqO7afCelVwWRZ2aRC/giphy.gif)
+![](https://media.giphy.com/media/9VkmcH8Lj4297mChAw/giphy.gif)
