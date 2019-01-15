@@ -17,9 +17,11 @@ Each card is solid, open, or striped.
 A 'Set' consists of three cards in which each feature is EITHER the same on each card OR is different on each card. That is to say, any feature in the 'Set' of three cards is either common to all three cards or is different on each card.
 
 For example, the following are 'Sets':
+
 ![](https://puzzles.setgame.com/images/setcards/small/74.gif) 
 ![](https://puzzles.setgame.com/images/setcards/small/47.gif)
 ![](https://puzzles.setgame.com/images/setcards/small/20.gif)
+
 All three cards are red; all are ovals; all have two symbols; and all have different shadings.
 
 All have different colors; all have different symbols; all have different numbers of symbols; and all have the same shading.
