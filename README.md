@@ -36,7 +36,7 @@ All have different colors; all have different symbols; all have different number
 
 All have different colors; all have different symbols; all have different numbers of symbols, and all have different shadings.
 
-The following are not 'Sets': 
+### The following are not 'Sets': 
 
 ![](https://puzzles.setgame.com/images/setcards/small/16.gif)
 ![](https://puzzles.setgame.com/images/setcards/small/67.gif)
