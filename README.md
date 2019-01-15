@@ -49,6 +49,9 @@ All have different colors; all are diamonds; all have one symbol; however, two a
 ![](https://puzzles.setgame.com/images/setcards/small/62.gif)
 
 All are squiggles; all have different shadings; all have two symbols; however, two are red and one is not.
+
+## The Magic Rule 
+If two are... and one is not, then it is not a 'Set'.
 ## Demo
 ![](https://media.giphy.com/media/9VkmcH8Lj4297mChAw/giphy-downsized-large.gif)
 
