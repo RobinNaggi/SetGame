@@ -24,7 +24,13 @@ For example, the following are 'Sets':
 
 All three cards are red; all are ovals; all have two symbols; and all have different shadings.
 
+![](https://puzzles.setgame.com/images/setcards/small/34.gif)
+![](https://puzzles.setgame.com/images/setcards/small/50.gif)
+![](https://puzzles.setgame.com/images/setcards/small/39.gif)
+
 All have different colors; all have different symbols; all have different numbers of symbols; and all have the same shading.
+
+
 All have different colors; all have different symbols; all have different numbers of symbols, and all have different shadings.
 The following are not 'Sets': 
 All have different colors; all are diamonds; all have one symbol; however, two are open and one is not. 
