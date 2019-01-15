@@ -30,6 +30,9 @@ All three cards are red; all are ovals; all have two symbols; and all have diffe
 
 All have different colors; all have different symbols; all have different numbers of symbols; and all have the same shading.
 
+![](https://puzzles.setgame.com/images/setcards/small/49.gif)
+![](https://puzzles.setgame.com/images/setcards/small/17.gif)
+![](https://puzzles.setgame.com/images/setcards/small/57.gif)
 
 All have different colors; all have different symbols; all have different numbers of symbols, and all have different shadings.
 The following are not 'Sets': 
